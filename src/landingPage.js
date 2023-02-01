@@ -61,7 +61,7 @@ const LandingPage = () =>{
 
                 <div>
                     <i class="fa fa-phone"></i>
-                    <p>+254712345678</p>
+                    <p>+254708302142</p>
                 </div>
 
                 <div>
